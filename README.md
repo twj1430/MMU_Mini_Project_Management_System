@@ -28,7 +28,6 @@ This project is a mini project management system developed as a group project fo
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or above
-- An Integrated Development Environment (IDE) such as Eclipse or IntelliJ IDEA
 
 ### Installation and Running
 1. **Clone the Repository:**
