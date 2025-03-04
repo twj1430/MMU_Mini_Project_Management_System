@@ -1,0 +1,11 @@
+l0004,Lim Wei Yang,Lim0004,FCI
+l0005,test,test0005,FCI
+l0006,test,test0006,FOE
+l0007,Poh Tian Ning,Poh0007,FCI
+l0008,lec,lec0008,FCI
+l0009,lim wei yang,lim0009,FOE
+l0010,halo,halo0010,FOE
+l0011,try,try0011,FCI
+l0012,lec,lec0012,FCI
+l0013,LecturerTan,LecturerTan0013,FCI
+l0014,Lecturer Lim,Lecturer0014,FCI

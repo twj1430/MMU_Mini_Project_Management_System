@@ -1,0 +1,17 @@
+s1201,Adam Bin Anuar,Adam1201,FCI,Cyber Security
+s1202,Tan Wei Chun,Tan1202,FCI,Data Science
+s1203,Ze Feng,Ze1203,FCI,Software Engineering
+s1204,Soon,Soon1204,FCI,Data Science
+s1205,Ali,Ali1205,FCI,Cyber Security
+s1206,Abu,Abu1206,FCI,Software Engineering
+s1207,Chong,Chong1207,FCI,Cyber Security
+s1208,Muthu,Muthu1208,FCI,Software Engineering
+s1209,Abdullah,Abdullah1209,FCI,Cyber Security
+s1210,Darwin,Darwin1210,FCI,Game Development
+s1211,Lee,Lee1211,FCI,Data Science
+s1212,Siew,Siew1212,FCI,Game Development
+s1213,Tan Wei Chun,Tan1213,FCI,Cyber Security
+s1214,try,try1215,FCI,Cyber Security
+s1215,testingPa,testingPa1215,FCI,Cyber Security
+s1216,StudentLee,StudentLee1216,FCI,Software Engineering
+s1217,StudentPang,StudentPang1217,FCI,Software Engineering

@@ -1,0 +1,12 @@
+MP000001,l0001,s1201,Project A,Project Description A,FCI,Software Egineering,0.0,hidden
+MP000002,l0004,s1202,project name,project name description,FCI,Cyber Security,0.0,hidden
+MP000003,l0004,unassigned,asda,aafsafsaewqeq,FCI,Cyber Security,0.0,activated
+MP000004,l0004,s1203,testing,testing12345,FCI,Software Engineering,0.0,activated
+MP000005,l0004,s1204,testing,testing12345,FCI,Software Engineering,0.0,activated
+MP000006,l0004,s1205,testing,testing1234,FCI,Cyber Security,0.0,activated
+MP000007,l0004,s1206,project A,You have to use Unreal engine to start a project,FCI,Software Engineering,0.0,activated
+MP000008,l0004,s1207,Project A,Project A description,FCI,Data Science,12.0,hidden
+MP000009,l0004,s1208,Project Unreal Engine For this Student,we qwmkceeicqeiqciqce wqc qwcq ecjqwicjeiq wqcqwc iqwcei qwcieqwi ejiwqc iwqc iwe ciqwejc iqowjeiqwjeiqw,FCI,Data Science,0.0,activated
+MP000010,l0004,s1209,Develop a game that using Unreal engine,This game should have the figure that player can aim the target.,FCI,Game Development,0.0,hidden
+MP000012,l0014,s1217,Project,Project,FCI,Software Engineering,100.0,activated
+MP000013,l0014,s1216,Project 1,Project 1,FCI,Software Engineering,0.0,activated
